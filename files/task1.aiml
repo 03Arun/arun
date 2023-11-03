@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern> Hello, I'm having trouble with my recent order. Can you help me?</pattern>
+	    <template>Of course, I'd be happy to help! 😊 Please provide me with your order number so I can assist you better.</template>
+    </category>
+</aiml>
